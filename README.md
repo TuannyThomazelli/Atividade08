@@ -317,17 +317,6 @@ Assim:
 
 ---
 
-# 🌐 Link do projeto
-
-## 🔗 GitHub
-
-[COLE AQUI O LINK DO SEU REPOSITÓRIO]
-
-## 🔗 Projeto funcionando
-
-[COLE AQUI O LINK DO SEU DEPLOY]
-
----
 
 # 👩‍💻 Desenvolvedora
 
